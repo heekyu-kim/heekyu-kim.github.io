@@ -4,10 +4,42 @@
     <list default="true" id="dce6424a-4548-407e-8472-83edbd79339e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/collection-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/collection-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cv/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/non-menu-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/non-menu-page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/portfolio-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/portfolio-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/portfolio-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/portfolio-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2012/08/blog-post-4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/2013/08/blog-post-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2013/08/blog-post-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/2014/08/blog-post-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/2014/08/blog-post-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publication/2009-10-01-paper-title-number-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2009-10-01-paper-title-number-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publication/2010-10-01-paper-title-number-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2010-10-01-paper-title-number-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publication/2015-10-01-paper-title-number-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2015-10-01-paper-title-number-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publication/2024-02-17-paper-title-number-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publication/2024-02-17-paper-title-number-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/talkmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talkmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2012-03-01-talk-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2012-03-01-talk-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2013-03-01-tutorial-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2013-03-01-tutorial-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2014-02-01-talk-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2014-02-01-talk-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2014-03-01-talk-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2014-03-01-talk-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/2014-spring-teaching-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/2014-spring-teaching-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/2015-spring-teaching-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/2015-spring-teaching-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/year-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/year-archive/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +85,8 @@
       <workItem from="1727481951293" duration="4000" />
       <workItem from="1727596105290" duration="2299000" />
       <workItem from="1727599310036" duration="1888000" />
-      <workItem from="1727690685350" duration="1671000" />
+      <workItem from="1727690685350" duration="4157000" />
+      <workItem from="1728120892177" duration="2109000" />
     </task>
     <servers />
   </component>
